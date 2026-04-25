@@ -1,0 +1,154 @@
+{
+  "info": {
+    "_postman_id": "7685ab2b-7534-495e-8a4e-e7ede0059231",
+    "name": "dummyjson",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52697640",
+    "_collection_link": "https://go.postman.co/collection/52697640-7685ab2b-7534-495e-8a4e-e7ede0059231?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "Login",
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "exec": [
+              "pm.test(\"Status es 200\", function () {\r",
+              "    pm.response.to.have.status(200);\r",
+              "});\r",
+              "\r",
+              "pm.test(\"Es Colombia\", function () {\r",
+              "    const body = pm.response.json();\r",
+              "    pm.expect(body.data.country.name).to.eql(\"Colombia\");\r",
+              "});"
+            ],
+            "type": "text/javascript",
+            "packages": {},
+            "requests": {}
+          }
+        }
+      ],
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"username\": \"nuevoUsuario\",\r\n  \"password\": \"1234\"\r\n}"
+        },
+        "url": {
+          "raw": "https://dummyjson.com/auth/login",
+          "protocol": "https",
+          "host": [
+            "dummyjson",
+            "com"
+          ],
+          "path": [
+            "auth",
+            "login"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Consultar usuario",
+      "protocolProfileBehavior": {
+        "disableBodyPruning": true
+      },
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "file",
+          "file": {}
+        },
+        "url": {
+          "raw": "https://dummyjson.com/users/1",
+          "protocol": "https",
+          "host": [
+            "dummyjson",
+            "com"
+          ],
+          "path": [
+            "users",
+            "1"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Actualizar datos-patch",
+      "request": {
+        "method": "PATCH",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"lastName\": \"Anderson\"\r\n}"
+        },
+        "url": {
+          "raw": "https://dummyjson.com/users/1",
+          "protocol": "https",
+          "host": [
+            "dummyjson",
+            "com"
+          ],
+          "path": [
+            "users",
+            "1"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Actualizar datos-put",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json",
+            "type": "text"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"firstName\": \"John\",\r\n  \"lastName\": \"Doe\",\r\n  \"maidenName\": \"Smith\",\r\n  \"age\": 29,\r\n  \"gender\": \"male\",\r\n  \"email\": \"john.doe@example.com\",\r\n  \"phone\": \"+81 965-431-3024\",\r\n  \"username\": \"johndoe\",\r\n  \"password\": \"securepass123\",\r\n  \"birthDate\": \"1994-08-15\",\r\n  \"image\": \"https://dummyjson.com/icon/johndoe/128\",\r\n  \"bloodGroup\": \"O-\",\r\n  \"height\": 180.5,\r\n  \"weight\": 75.0,\r\n  \"eyeColor\": \"Blue\",\r\n  \"hair\": {\r\n    \"color\": \"Black\",\r\n    \"type\": \"Straight\"\r\n  },\r\n  \"ip\": \"42.48.100.33\",\r\n  \"address\": {\r\n    \"address\": \"123 Main Street\",\r\n    \"city\": \"Los Angeles\",\r\n    \"state\": \"California\",\r\n    \"stateCode\": \"CA\",\r\n    \"postalCode\": \"90001\",\r\n    \"coordinates\": {\r\n      \"lat\": 34.0522,\r\n      \"lng\": -118.2437\r\n    },\r\n    \"country\": \"United States\"\r\n  },\r\n  \"macAddress\": \"47:fa:41:18:ec:ab\",\r\n  \"university\": \"University of California, Berkeley\",\r\n  \"bank\": {\r\n    \"cardExpire\": \"06/25\",\r\n    \"cardNumber\": \"1234567812345678\",\r\n    \"cardType\": \"Visa\",\r\n    \"currency\": \"USD\",\r\n    \"iban\": \"US64SVBK1234567890\"\r\n  },\r\n  \"company\": {\r\n    \"department\": \"IT\",\r\n    \"name\": \"Tech Solutions\",\r\n    \"title\": \"Software Engineer\",\r\n    \"address\": {\r\n      \"address\": \"456 Innovation Drive\",\r\n      \"city\": \"San Francisco\",\r\n      \"state\": \"California\",\r\n      \"stateCode\": \"CA\",\r\n      \"postalCode\": \"94105\",\r\n      \"coordinates\": {\r\n        \"lat\": 37.7749,\r\n        \"lng\": -122.4194\r\n      },\r\n      \"country\": \"United States\"\r\n    }\r\n  },\r\n  \"ein\": \"123-456\",\r\n  \"ssn\": \"123-45-6789\",\r\n  \"userAgent\": \"Mozilla/5.0\",\r\n  \"crypto\": {\r\n    \"coin\": \"Bitcoin\",\r\n    \"wallet\": \"0xb9fc2fe63b2a6c003f1c324c3bfa53259162181a\",\r\n    \"network\": \"Ethereum (ERC20)\"\r\n  },\r\n  \"role\": \"admin\"\r\n}"
+        },
+        "url": {
+          "raw": "https://dummyjson.com/users/1",
+          "protocol": "https",
+          "host": [
+            "dummyjson",
+            "com"
+          ],
+          "path": [
+            "users",
+            "1"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
