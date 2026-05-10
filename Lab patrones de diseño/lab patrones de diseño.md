@@ -185,4 +185,4 @@ conversiones de dólares a centavos.
 La combinación de estos tres patrones permite construir un sistema
 flexible, desacoplado y fácil de extender.
 
-![creacional+estructural+comportamiento](imagenes/creacional+estructural+comportamiento).png
+![creacional+estructural+comportamiento](imagenes/creacional+estructural+comportamiento.png)
