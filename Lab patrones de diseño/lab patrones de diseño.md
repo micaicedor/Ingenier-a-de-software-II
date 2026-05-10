@@ -69,7 +69,7 @@ patrón se basa en dos ideas principales: un constructor privado para
 impedir la creación libre de objetos y un método estático getInstance()
 para controlar y reutilizar la única instancia disponible.
 
-\![singleton\](imagenes/singleton.png
+![singleton](imagenes/singleton.png)
 
 **Parte 2: Singleton + Patrón Estructural (Decorator)**
 
@@ -108,7 +108,7 @@ siendo una única instancia, pero alrededor de él pueden añadirse
 distintas capas de comportamiento, como logging, caché o métricas, de
 forma flexible y extensible.
 
-\![singleton+decorator\](imagenes/singleton+decorator.png
+![singleton+decorator](imagenes/singleton+decorator.png)
 
 **3. Patrones Creacionales, Estructurales y de Comportamiento**
 
@@ -185,4 +185,4 @@ conversiones de dólares a centavos.
 La combinación de estos tres patrones permite construir un sistema
 flexible, desacoplado y fácil de extender.
 
-\![creacional+estructural+comportamiento\](imagenes/creacional+estructural+comportamiento\].png
+![creacional+estructural+comportamiento](imagenes/creacional+estructural+comportamiento).png
