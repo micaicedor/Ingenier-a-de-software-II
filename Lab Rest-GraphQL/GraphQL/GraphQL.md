@@ -21,7 +21,7 @@ Se va ha utilizar [https://countries.trevorblades.com/graphql](https://countries
    Para la query anidada que consulta el país (Panamá) y sus campos específicos, se pueden definir los siguientes tests en Postman:  
    ![Query](imagenes/3.test.png)  
      
-4. Esta consulta busca países cuyo nombre sea “Colombia” y devuelve únicamente los campos name, capital y currency. A diferencia de consultar por código, aquí se utiliza un filtro por nombre, lo que permite realizar búsquedas más flexibles.  
+4. Esta consulta busca países cuyo nombre sea “Panama” y devuelve únicamente los campos name, capital y currency. A diferencia de consultar por código, aquí se utiliza un filtro por nombre, lo que permite realizar búsquedas más flexibles.  
    ![Query](imagenes/4.query.png)  
    Para la query por nombre de país, donde se desea obtener la capital, se pueden definir los siguientes tests en Postman:  
    ![Query](imagenes/4.test.png)  
