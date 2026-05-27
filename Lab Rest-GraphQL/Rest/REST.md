@@ -19,11 +19,10 @@ Elegí la API [https://dummyjson.com/](https://dummyjson.com/) porque permite tr
 **200 OK** → La solicitud fue exitosa, todo salió bien
 ![Login](imagenes/actualizar_datos_put.png) 
 
-5. Test: El código define dos pruebas automáticas en Postman que se ejecutan después de enviar una petición. La primera valida que la respuesta del servidor tenga un estado HTTP 200, lo que indica que la solicitud fue exitosa; si se cumple, el test aparece como “Passed”, de lo contrario como “Failed”. La segunda prueba convierte la respuesta a formato JSON y verifica que el campo “username” tenga el valor “Developer”, confirmando que la actualización se realizó correctamente. Si el valor coincide, el resultado es “Passed”, y si no, “Failed”. De esta manera, ambos tests permiten comprobar automáticamente tanto el éxito de la petición como la correcta modificación de los datos.  
+5. Test: El código define dos pruebas automáticas en Postman que se ejecutan después de enviar la petición. La primera verifica que la respuesta del servidor tenga un estado HTTP 200, lo que indica que la solicitud fue procesada correctamente; si se cumple, el resultado aparece como “Passed”, y en caso contrario como “Failed”. La segunda prueba convierte la respuesta a formato JSON y comprueba que el cuerpo incluya las propiedades id y username, confirmando que la API devolvió la información esperada del usuario. Si ambas propiedades están presentes, el test se marca como “Passed”; si falta alguna, se marca como “Failed”. De esta forma, ambos tests permiten validar automáticamente tanto el éxito de la petición como la estructura esperada de la respuesta.  
 **200 OK** → La solicitud fue exitosa, todo salió bien  
 ![Login](imagenes/test.png) 
 
-6. A diferencia de JSONPlaceholder, en esta API aprendí a trabajar con datos reales y estructuras más complejas. También observé que se incluyen más campos relacionados con el usuario, como id, userName y email, lo que permite una gestión más completa de la información.  
-Además, comprendí mejor el uso de códigos de estado HTTP y cómo interpretar las respuestas del servidor en distintos escenarios.
+6. A diferencia de JSONPlaceholder, con DummyJSON aprendí a trabajar con datos de prueba más detallados y con estructuras más complejas. También observé que se incluyen más campos relacionados con el usuario, como id, username y email, lo que permite una gestión más completa de la información. Además, comprendí mejor el uso de los códigos de estado HTTP y cómo interpretar las respuestas del servidor en distintos escenarios.
 
 
