@@ -1,0 +1,43 @@
+com.example.pruebatecnica.app-lifecycle-livedata-core-ktx-2.8.7-0 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\1d3c77e7152276fa296035b8bdecdfbf\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.example.pruebatecnica.app-constraintlayout-2.2.0-1 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\319288dd71c0ae3061b38474101749bc\transformed\constraintlayout-2.2.0\res
+com.example.pruebatecnica.app-lifecycle-runtime-ktx-release-2 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\31cab826fde87612e2f7b36519f72c14\transformed\lifecycle-runtime-ktx-release\res
+com.example.pruebatecnica.app-core-ktx-1.13.1-3 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\38321340f249794a70d10bef9d56314e\transformed\core-ktx-1.13.1\res
+com.example.pruebatecnica.app-appcompat-resources-1.7.0-4 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\383b5e571666c2fcb4cea7dfdac69e5e\transformed\appcompat-resources-1.7.0\res
+com.example.pruebatecnica.app-recyclerview-1.3.2-5 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\386bfac6fec54d6dd034ef7d03ff106a\transformed\recyclerview-1.3.2\res
+com.example.pruebatecnica.app-cardview-1.0.0-6 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\38b35e02fec20b76b06e404251181c70\transformed\cardview-1.0.0\res
+com.example.pruebatecnica.app-viewpager2-1.1.0-beta02-7 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\3c40c94c0091f60f9731c9e752705581\transformed\viewpager2-1.1.0-beta02\res
+com.example.pruebatecnica.app-room-ktx-2.6.1-8 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\436880875513f3269ffc19cd211c9227\transformed\room-ktx-2.6.1\res
+com.example.pruebatecnica.app-savedstate-1.2.1-9 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\471d3ff26e3b62dab1cddbc6e91b22a7\transformed\savedstate-1.2.1\res
+com.example.pruebatecnica.app-lifecycle-process-2.8.7-10 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\5420af714bca1a01333b41549325becb\transformed\lifecycle-process-2.8.7\res
+com.example.pruebatecnica.app-emoji2-views-helper-1.3.0-11 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\5bdd73869c673a3bb245df951fb1ea0e\transformed\emoji2-views-helper-1.3.0\res
+com.example.pruebatecnica.app-activity-1.8.0-12 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\6355524da0632a9510e28897d754ac3d\transformed\activity-1.8.0\res
+com.example.pruebatecnica.app-sqlite-2.4.0-13 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\65082c90ea2cb4549a8ecd93021f3d89\transformed\sqlite-2.4.0\res
+com.example.pruebatecnica.app-emoji2-1.3.0-14 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\655a090f9947c51a2e43a89eb6937b55\transformed\emoji2-1.3.0\res
+com.example.pruebatecnica.app-appcompat-1.7.0-15 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\6c1b84d6d2494c183547ab890a55eeeb\transformed\appcompat-1.7.0\res
+com.example.pruebatecnica.app-core-runtime-2.2.0-16 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\7114e1c4b5cace4c2febee92d9e53b5a\transformed\core-runtime-2.2.0\res
+com.example.pruebatecnica.app-sqlite-framework-2.4.0-17 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\8d917cf94b33a0d824677157d6a3681d\transformed\sqlite-framework-2.4.0\res
+com.example.pruebatecnica.app-coordinatorlayout-1.1.0-18 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\912743b5902e0f350d076e98d0c5867f\transformed\coordinatorlayout-1.1.0\res
+com.example.pruebatecnica.app-transition-1.5.0-19 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\936577a747a7475a98aefba63849a042\transformed\transition-1.5.0\res
+com.example.pruebatecnica.app-lifecycle-livedata-ktx-2.8.7-20 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\9c8b7ce69c2dff7b0ebf0f090c871a82\transformed\lifecycle-livedata-ktx-2.8.7\res
+com.example.pruebatecnica.app-customview-poolingcontainer-1.0.0-21 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\a8a6c18c125bd946b01b1df40cf17d2d\transformed\customview-poolingcontainer-1.0.0\res
+com.example.pruebatecnica.app-profileinstaller-1.4.0-22 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\bae37fe02b9c4ba8893736ecd02191e9\transformed\profileinstaller-1.4.0\res
+com.example.pruebatecnica.app-lifecycle-viewmodel-ktx-2.8.7-23 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\bbb5da25886c3ceeddf83cd0a95bc5ee\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.example.pruebatecnica.app-lifecycle-viewmodel-release-24 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\bd9f9b12401fb7fded3d7272d743fe48\transformed\lifecycle-viewmodel-release\res
+com.example.pruebatecnica.app-lifecycle-viewmodel-savedstate-2.8.7-25 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\c3b8439fc441837bd0865d1fe6b6fc20\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.example.pruebatecnica.app-lifecycle-livedata-2.8.7-26 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\dac6dd21b8f896162033348387f5bd6a\transformed\lifecycle-livedata-2.8.7\res
+com.example.pruebatecnica.app-fragment-1.5.4-27 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\e3a64334586eedb92a17173611c680ae\transformed\fragment-1.5.4\res
+com.example.pruebatecnica.app-core-1.13.1-28 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\e7b77ddaccbd5e02b37fc80a482fbea6\transformed\core-1.13.1\res
+com.example.pruebatecnica.app-drawerlayout-1.1.1-29 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\f0ecd0334e8b49dc88bcd72877e097cf\transformed\drawerlayout-1.1.1\res
+com.example.pruebatecnica.app-annotation-experimental-1.4.0-30 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\f0fb8dfd10cbad6f0e7e691a2226bb9c\transformed\annotation-experimental-1.4.0\res
+com.example.pruebatecnica.app-room-runtime-2.6.1-31 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\f57ba5f0507bb7921771c14f80288461\transformed\room-runtime-2.6.1\res
+com.example.pruebatecnica.app-lifecycle-runtime-release-32 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\fbfa33cfbaea01002497aadf2db20933\transformed\lifecycle-runtime-release\res
+com.example.pruebatecnica.app-startup-runtime-1.1.1-33 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\fcd93bec6f2d4a1d87a424b295bf663d\transformed\startup-runtime-1.1.1\res
+com.example.pruebatecnica.app-material-1.12.0-34 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\fdac2d1bedeed9917d32892c2a14a5c2\transformed\material-1.12.0\res
+com.example.pruebatecnica.app-lifecycle-livedata-core-2.8.7-35 C:\Users\MICHAEL\.gradle\caches\9.0.0\transforms\ff2541af4e1086b08eb3993ef18ac520\transformed\lifecycle-livedata-core-2.8.7\res
+com.example.pruebatecnica.app-pngs-36 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\build\generated\res\pngs\debug
+com.example.pruebatecnica.app-resValues-37 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\build\generated\res\resValues\debug
+com.example.pruebatecnica.app-mergeDebugResources-38 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.pruebatecnica.app-mergeDebugResources-39 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.pruebatecnica.app-debug-40 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.pruebatecnica.app-debug-41 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\src\debug\res
+com.example.pruebatecnica.app-main-42 C:\Users\MICHAEL\Documents\Unal\Ing II\Prueba tecnica\app\src\main\res

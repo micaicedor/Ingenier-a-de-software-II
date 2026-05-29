@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/drawable_card_background.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/drawable/card_background.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/layout_activity_localities.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/layout/activity_localities.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/layout_activity_home.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/layout_activity_tables.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/layout/activity_tables.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/layout_item_locality.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/layout/item_locality.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/drawable_button_primary.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/drawable/button_primary.xml"
+    },
+    {
+        "merged": "com.example.pruebatecnica.app-debug-40:/layout_item_table.xml.flat",
+        "source": "com.example.pruebatecnica.app-main-42:/layout/item_table.xml"
+    }
+]
