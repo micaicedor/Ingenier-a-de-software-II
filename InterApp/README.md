@@ -13,33 +13,19 @@ El proyecto cumple con los criterios solicitados en la prueba tecnica:
 
 ## Evidencias de ejecucion
 
-Guarda las capturas en la carpeta:
-
-`docs/screenshots/`
-
-Usa estos nombres para que se muestren automaticamente en este README.
-
 ### Pantalla Home
-
-PONER FOTO AQUI: captura donde se vea `Usuario`, `Identificacion`, `Nombre` y los botones `Tablas` y `Localidades`.
 
 ![Pantalla Home](docs/screenshots/home.jpeg)
 
 ### Pantalla Tablas
 
-PONER FOTO AQUI: captura donde se vean las tablas sincronizadas desde `ObtenerEsquema/true`.
-
 ![Pantalla Tablas](docs/screenshots/tablas.jpeg)
 
 ### Pantalla Localidades
 
-PONER FOTO AQUI: captura donde se vea el listado con `AbreviacionCiudad` y `NombreCompleto`.
-
 ![Pantalla Localidades](docs/screenshots/localidades.jpeg)
 
 ### Evidencia de Compilacion
-
-PONER FOTO AQUI: captura de Android Studio, terminal o emulador donde se vea que la app compila o se ejecuta.
 
 ![Evidencia de compilacion](docs/screenshots/compilacion.jpeg)
 
