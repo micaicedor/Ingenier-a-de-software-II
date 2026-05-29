@@ -27,7 +27,7 @@ El proyecto cumple con los criterios solicitados en la prueba tecnica:
 
 ### Evidencia de Compilacion
 
-![Evidencia de compilacion](docs/screenshots/compilacion.jpeg)
+![Evidencia de compilacion](docs/screenshots/compilacion.jpg)
 
 ## Como abrir el proyecto
 
